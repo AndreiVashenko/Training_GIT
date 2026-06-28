@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wewqwqeqа222222
+=======
+wewqwqeqа111111
+>>>>>>> main
